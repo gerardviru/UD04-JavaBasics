@@ -18,7 +18,7 @@ public class Ejercicio4 {
 		n-=3;
 		System.out.println("N - 3 = "+n);
 		
-		/*Duplicar su valor*/
+		/*Duplicar valor*/
 		n*=2;
 		System.out.println("N * 2 = "+n);
 	}

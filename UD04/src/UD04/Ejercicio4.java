@@ -21,12 +21,6 @@ public class Ejercicio4 {
 		/*Duplicar valor*/
 		n*=2;
 		System.out.println("N * 2 = "+ n);
-		
-		/*Duplicar valor*/
-		n*=2;
-		System.out.println("N * 2 = "+ n);
-		
-		
 	}
 
 }
